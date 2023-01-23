@@ -1,9 +1,10 @@
 # Project Athens
 
+## Overview
 A repository of tutorials for microprocessor and microcontroller classes.
 
 Includes:
-\li Logisim designs
-\li Eagle designs
-\li Tiva C codes
-\li Arduino codes
+* Logisim designs
+* Eagle designs
+* Tiva C codes
+* Arduino codes
